@@ -20,11 +20,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/live.pineapple.net.au/browserconfig.xml"
   },
   {
-    "revision": "68f88cab42cf3a764991",
+    "revision": "aadf3a9d7dde5fb6bd01",
     "url": "/live.pineapple.net.au/css/app.06bda4bb.css"
   },
   {
-    "revision": "5b4464e80cb3d2ee26ea",
+    "revision": "da84d1ebd68cfdc20a22",
     "url": "/live.pineapple.net.au/css/chunk-vendors.29dbbaea.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/live.pineapple.net.au/css/footer-component.315aa0a1.css"
   },
   {
-    "revision": "8562376050ceedad7d9e",
-    "url": "/live.pineapple.net.au/css/home.f9a8edc8.css"
+    "revision": "ec9babc5ef28f0385acf",
+    "url": "/live.pineapple.net.au/css/home.167e2384.css"
   },
   {
     "revision": "4466a9392be5f189cb21",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/live.pineapple.net.au/css/main-menu.f091c936.css"
   },
   {
-    "revision": "c8902169bafa9a0a3e26",
-    "url": "/live.pineapple.net.au/css/page.97a59e4d.css"
+    "revision": "4e58e9811ae6044c717d",
+    "url": "/live.pineapple.net.au/css/page.d2fc7ac3.css"
   },
   {
     "revision": "1f18fde75f003a41548c",
@@ -448,16 +448,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/live.pineapple.net.au/img/testimonials/default.png"
   },
   {
-    "revision": "c38797b172b061d885ae1f1a79d145a8",
+    "revision": "b19f742b3f65443bfa8a517b513be8ad",
     "url": "/live.pineapple.net.au/index.html"
   },
   {
-    "revision": "68f88cab42cf3a764991",
-    "url": "/live.pineapple.net.au/js/app.e564930c.js"
+    "revision": "aadf3a9d7dde5fb6bd01",
+    "url": "/live.pineapple.net.au/js/app.cb73e8f8.js"
   },
   {
-    "revision": "5b4464e80cb3d2ee26ea",
-    "url": "/live.pineapple.net.au/js/chunk-vendors.e55d92f4.js"
+    "revision": "da84d1ebd68cfdc20a22",
+    "url": "/live.pineapple.net.au/js/chunk-vendors.88a2b996.js"
   },
   {
     "revision": "53cd5bff3fd805be1225",
@@ -468,8 +468,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/live.pineapple.net.au/js/footer-component.7b3c7c1f.js"
   },
   {
-    "revision": "8562376050ceedad7d9e",
-    "url": "/live.pineapple.net.au/js/home.c65deab3.js"
+    "revision": "ec9babc5ef28f0385acf",
+    "url": "/live.pineapple.net.au/js/home.8dc27460.js"
   },
   {
     "revision": "4466a9392be5f189cb21",
@@ -484,8 +484,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/live.pineapple.net.au/js/main-menu.d5870e6a.js"
   },
   {
-    "revision": "c8902169bafa9a0a3e26",
-    "url": "/live.pineapple.net.au/js/page.d437265a.js"
+    "revision": "4e58e9811ae6044c717d",
+    "url": "/live.pineapple.net.au/js/page.c5f41174.js"
   },
   {
     "revision": "1f18fde75f003a41548c",
